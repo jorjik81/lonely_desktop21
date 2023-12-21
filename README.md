@@ -20,9 +20,8 @@ To install and run the Book Search Engine application locally, follow these step
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Run the command `npm install` to install the required dependencies.
-4. Create a `.env` file in the root directory and provide the necessary environment variables (e.g., API keys).
-5. Run the command `npm run develop` to start the application.
-6. Access the application in your web browser at `http://localhost:3000`.
+4. Run the command `npm run develop` to start the application.
+5. Access the application in your web browser at `http://localhost:3000`.
 
 ## Usage
 
