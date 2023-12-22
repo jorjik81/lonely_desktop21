@@ -53,7 +53,7 @@ Mutation: {
           return updatedUser;
         }
   
-        throw AuthenticationError;
+        throw new AuthenticationError;
       },
 
 
